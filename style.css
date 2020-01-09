@@ -152,6 +152,8 @@ table td {
 }
 
 .card {
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
     display: inline-flex; 
     background-color: white;
     padding: 40px;
